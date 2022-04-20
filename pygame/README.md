@@ -1,7 +1,9 @@
-# pygame
+# Pygame
 
-### how to run
+#### How to Run
+```
 python hello_pygame.py
+```
 
-### requirement
-python 3.6 or newer
+#### Requirements
+Python >= 3.6
