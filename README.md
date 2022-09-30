@@ -1,9 +1,9 @@
-# PyHack
+# AnyLangHack
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"> [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]() <img src="https://img.shields.io/github/license/payloadbox/xss-payload-list">
 
 ### Introduction
 
-This repo is meant to contain </b>Python</b> scripts which can basically ease our lives. Some of the roles of these scripts might be the following:
+This repo is meant to contain </b>any language</b> scripts which can basically ease our lives. Some of the roles of these scripts might be the following:
 * Automation
 * Downloader
 * Algorithm Implementation
