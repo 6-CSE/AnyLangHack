@@ -4,13 +4,6 @@
  */
 export default function dcMaximumSubarraySum(inputArray) {
   /**
-   * We are going through the inputArray array and for each element we have two options:
-   * - to pick
-   * - not to pick
-   *
-   * Also keep in mind, that the maximum sub-array must be contiguous. It means if we picked
-   * the element, we need to continue picking the next elements or stop counting the max sum.
-   *
    * @param {number} elementIndex - the index of the element we're deciding to pick or not
    * @param {boolean} mustPick - to pick or not to pick the element
    * @returns {number} - maximum subarray sum that we'll get
