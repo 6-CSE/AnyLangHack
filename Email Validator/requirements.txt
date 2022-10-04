@@ -1,0 +1,2 @@
+py3dns==3.2.1
+validate-email-address==1
