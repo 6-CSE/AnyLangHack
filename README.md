@@ -20,6 +20,7 @@ Alternatively,
 (Before committing all files, check if all files are staged atleast. It can be checked using `git status`).
 - Make a new branch to make PR: `git checkout -b <branch_name>`
 - Add your programs in correct locations: `git add .` (Adds all files here)
+[In here instead of adding all files directly using `.`, we can just add files which are required let's say `git add x.txt y.txt` and then commit for them saying `git commit -m "Added x & y text files`"]
 - Commit your changes: `git commit -m "Some_Commit_Message"`. (Committed all files)
 - Finally, you just need to push all the changes by doing: `git push origin <branch_name>`. 
 
